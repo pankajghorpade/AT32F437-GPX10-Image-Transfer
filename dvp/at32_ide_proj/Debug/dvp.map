@@ -1,0 +1,1570 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                              ./firmware/at32f435_437_crm.o (__aeabi_uldivmod)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                              c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                              c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+                              c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+                              c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+                              c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+                              ./bsp/at_surf_f437_board_font.o (memcpy)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+                              c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+                              c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x00000000       0x24 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x7c c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 ./user/at32f435_437_clock.o
+ .data          0x00000000        0x0 ./user/at32f435_437_clock.o
+ .bss           0x00000000        0x0 ./user/at32f435_437_clock.o
+ .text          0x00000000        0x0 ./user/at32f435_437_int.o
+ .data          0x00000000        0x0 ./user/at32f435_437_int.o
+ .bss           0x00000000        0x0 ./user/at32f435_437_int.o
+ .text          0x00000000        0x0 ./user/main.o
+ .data          0x00000000        0x0 ./user/main.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_crm.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_crm.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_crm.o
+ .text.crm_lext_bypass
+                0x00000000       0x2c ./firmware/at32f435_437_crm.o
+ .text.crm_hext_bypass
+                0x00000000       0x2c ./firmware/at32f435_437_crm.o
+ .text.crm_interrupt_flag_get
+                0x00000000      0x134 ./firmware/at32f435_437_crm.o
+ .text.crm_hick_clock_trimming_set
+                0x00000000       0x2c ./firmware/at32f435_437_crm.o
+ .text.crm_hick_clock_calibration_set
+                0x00000000       0x44 ./firmware/at32f435_437_crm.o
+ .text.crm_periph_lowpower_mode_enable
+                0x00000000       0x7c ./firmware/at32f435_437_crm.o
+ .text.crm_flag_clear
+                0x00000000       0xe8 ./firmware/at32f435_437_crm.o
+ .text.crm_ertc_clock_select
+                0x00000000       0x40 ./firmware/at32f435_437_crm.o
+ .text.crm_ertc_clock_enable
+                0x00000000       0x2c ./firmware/at32f435_437_crm.o
+ .text.crm_usb_clock_div_set
+                0x00000000       0x30 ./firmware/at32f435_437_crm.o
+ .text.crm_clock_failure_detection_enable
+                0x00000000       0x2c ./firmware/at32f435_437_crm.o
+ .text.crm_battery_powered_domain_reset
+                0x00000000       0x2c ./firmware/at32f435_437_crm.o
+ .text.crm_hick_divider_select
+                0x00000000       0x30 ./firmware/at32f435_437_crm.o
+ .text.crm_hick_sclk_frequency_select
+                0x00000000       0x34 ./firmware/at32f435_437_crm.o
+ .text.crm_usb_clock_source_select
+                0x00000000       0x38 ./firmware/at32f435_437_crm.o
+ .text.crm_clkout_to_tmr10_enable
+                0x00000000       0x30 ./firmware/at32f435_437_crm.o
+ .text.crm_clocks_freq_get
+                0x00000000      0x19c ./firmware/at32f435_437_crm.o
+ .text.crm_clock_out1_set
+                0x00000000       0x2c ./firmware/at32f435_437_crm.o
+ .text.crm_clock_out2_set
+                0x00000000       0x58 ./firmware/at32f435_437_crm.o
+ .text.crm_clkout_div_set
+                0x00000000       0x7c ./firmware/at32f435_437_crm.o
+ .text.crm_emac_output_pulse_set
+                0x00000000       0x30 ./firmware/at32f435_437_crm.o
+ .text.crm_interrupt_enable
+                0x00000000       0x40 ./firmware/at32f435_437_crm.o
+ .text.crm_pll_parameter_calculate
+                0x00000000      0x170 ./firmware/at32f435_437_crm.o
+ .rodata        0x00000000       0x28 ./firmware/at32f435_437_crm.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_dma.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_dma.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_dma.o
+ .text.dma_reset
+                0x00000000       0xac ./firmware/at32f435_437_dma.o
+ .text.dma_data_number_set
+                0x00000000       0x1e ./firmware/at32f435_437_dma.o
+ .text.dma_data_number_get
+                0x00000000       0x1a ./firmware/at32f435_437_dma.o
+ .text.dma_interrupt_enable
+                0x00000000       0x3c ./firmware/at32f435_437_dma.o
+ .text.dma_channel_enable
+                0x00000000       0x2a ./firmware/at32f435_437_dma.o
+ .text.dma_flag_get
+                0x00000000       0x48 ./firmware/at32f435_437_dma.o
+ .text.dma_interrupt_flag_get
+                0x00000000       0x48 ./firmware/at32f435_437_dma.o
+ .text.dma_flag_clear
+                0x00000000       0x38 ./firmware/at32f435_437_dma.o
+ .text.dma_default_para_init
+                0x00000000       0x50 ./firmware/at32f435_437_dma.o
+ .text.dma_init
+                0x00000000       0xc8 ./firmware/at32f435_437_dma.o
+ .text.dma_flexible_config
+                0x00000000       0x3a ./firmware/at32f435_437_dma.o
+ .text.dmamux_enable
+                0x00000000       0x2e ./firmware/at32f435_437_dma.o
+ .text.dmamux_init
+                0x00000000       0x2a ./firmware/at32f435_437_dma.o
+ .text.dmamux_sync_default_para_init
+                0x00000000       0x32 ./firmware/at32f435_437_dma.o
+ .text.dmamux_sync_config
+                0x00000000       0x80 ./firmware/at32f435_437_dma.o
+ .text.dmamux_generator_default_para_init
+                0x00000000       0x2c ./firmware/at32f435_437_dma.o
+ .text.dmamux_generator_config
+                0x00000000       0x6c ./firmware/at32f435_437_dma.o
+ .text.dmamux_sync_interrupt_enable
+                0x00000000       0x34 ./firmware/at32f435_437_dma.o
+ .text.dmamux_generator_interrupt_enable
+                0x00000000       0x34 ./firmware/at32f435_437_dma.o
+ .text.dmamux_sync_flag_get
+                0x00000000       0x2a ./firmware/at32f435_437_dma.o
+ .text.dmamux_sync_interrupt_flag_get
+                0x00000000       0xdc ./firmware/at32f435_437_dma.o
+ .text.dmamux_sync_flag_clear
+                0x00000000       0x1e ./firmware/at32f435_437_dma.o
+ .text.dmamux_generator_flag_get
+                0x00000000       0x2a ./firmware/at32f435_437_dma.o
+ .text.dmamux_generator_interrupt_flag_get
+                0x00000000       0xdc ./firmware/at32f435_437_dma.o
+ .text.dmamux_generator_flag_clear
+                0x00000000       0x1e ./firmware/at32f435_437_dma.o
+ .debug_info    0x00000000     0x177a ./firmware/at32f435_437_dma.o
+ .debug_abbrev  0x00000000      0x22a ./firmware/at32f435_437_dma.o
+ .debug_aranges
+                0x00000000       0xe0 ./firmware/at32f435_437_dma.o
+ .debug_ranges  0x00000000       0xd0 ./firmware/at32f435_437_dma.o
+ .debug_line    0x00000000      0x621 ./firmware/at32f435_437_dma.o
+ .debug_str     0x00000000     0x1abc ./firmware/at32f435_437_dma.o
+ .comment       0x00000000       0x4a ./firmware/at32f435_437_dma.o
+ .debug_frame   0x00000000      0x3f8 ./firmware/at32f435_437_dma.o
+ .ARM.attributes
+                0x00000000       0x34 ./firmware/at32f435_437_dma.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_dvp.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_dvp.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_dvp.o
+ .text.dvp_reset
+                0x00000000       0x1c ./firmware/at32f435_437_dvp.o
+ .text.dvp_window_crop_enable
+                0x00000000       0x2c ./firmware/at32f435_437_dvp.o
+ .text.dvp_window_crop_set
+                0x00000000       0x54 ./firmware/at32f435_437_dvp.o
+ .text.dvp_jpeg_enable
+                0x00000000       0x2c ./firmware/at32f435_437_dvp.o
+ .text.dvp_sync_code_set
+                0x00000000       0x44 ./firmware/at32f435_437_dvp.o
+ .text.dvp_sync_unmask_set
+                0x00000000       0x44 ./firmware/at32f435_437_dvp.o
+ .text.dvp_basic_frame_rate_control_set
+                0x00000000       0x2c ./firmware/at32f435_437_dvp.o
+ .text.dvp_basic_status_get
+                0x00000000       0x3c ./firmware/at32f435_437_dvp.o
+ .text.dvp_flag_get
+                0x00000000       0x3c ./firmware/at32f435_437_dvp.o
+ .text.dvp_enhanced_scaling_resize_enable
+                0x00000000       0x2c ./firmware/at32f435_437_dvp.o
+ .text.dvp_enhanced_scaling_resize_set
+                0x00000000       0x70 ./firmware/at32f435_437_dvp.o
+ .text.dvp_enhanced_framerate_set
+                0x00000000       0x64 ./firmware/at32f435_437_dvp.o
+ .text.dvp_monochrome_image_binarization_set
+                0x00000000       0x40 ./firmware/at32f435_437_dvp.o
+ .text.dvp_enhanced_data_format_set
+                0x00000000       0x2c ./firmware/at32f435_437_dvp.o
+ .text.dvp_input_data_unused_set
+                0x00000000       0x44 ./firmware/at32f435_437_dvp.o
+ .text.dvp_dma_burst_set
+                0x00000000       0x2c ./firmware/at32f435_437_dvp.o
+ .text.dvp_sync_event_interrupt_set
+                0x00000000       0x44 ./firmware/at32f435_437_dvp.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_edma.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_edma.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_edma.o
+ .text.edma_default_para_init
+                0x00000000       0x68 ./firmware/at32f435_437_edma.o
+ .text.edma_peripheral_inc_offset_set
+                0x00000000       0x2a ./firmware/at32f435_437_edma.o
+ .text.edma_flow_controller_enable
+                0x00000000       0x2a ./firmware/at32f435_437_edma.o
+ .text.edma_data_number_set
+                0x00000000       0x1e ./firmware/at32f435_437_edma.o
+ .text.edma_data_number_get
+                0x00000000       0x1a ./firmware/at32f435_437_edma.o
+ .text.edma_memory_addr_set
+                0x00000000       0x2c ./firmware/at32f435_437_edma.o
+ .text.edma_memory_target_get
+                0x00000000       0x1e ./firmware/at32f435_437_edma.o
+ .text.edma_stream_status_get
+                0x00000000       0x28 ./firmware/at32f435_437_edma.o
+ .text.edma_fifo_status_get
+                0x00000000       0x1e ./firmware/at32f435_437_edma.o
+ .text.edma_flag_get
+                0x00000000       0x40 ./firmware/at32f435_437_edma.o
+ .text.edma_2d_init
+                0x00000000       0x46 ./firmware/at32f435_437_edma.o
+ .text.edma_2d_enable
+                0x00000000       0x64 ./firmware/at32f435_437_edma.o
+ .text.edma_link_list_init
+                0x00000000       0x1c ./firmware/at32f435_437_edma.o
+ .text.edma_link_list_enable
+                0x00000000       0x64 ./firmware/at32f435_437_edma.o
+ .text.edmamux_sync_default_para_init
+                0x00000000       0x32 ./firmware/at32f435_437_edma.o
+ .text.edmamux_sync_config
+                0x00000000       0x80 ./firmware/at32f435_437_edma.o
+ .text.edmamux_generator_default_para_init
+                0x00000000       0x2c ./firmware/at32f435_437_edma.o
+ .text.edmamux_generator_config
+                0x00000000       0x6c ./firmware/at32f435_437_edma.o
+ .text.edmamux_sync_interrupt_enable
+                0x00000000       0x34 ./firmware/at32f435_437_edma.o
+ .text.edmamux_generator_interrupt_enable
+                0x00000000       0x34 ./firmware/at32f435_437_edma.o
+ .text.edmamux_sync_flag_get
+                0x00000000       0x2c ./firmware/at32f435_437_edma.o
+ .text.edmamux_sync_interrupt_flag_get
+                0x00000000       0xf0 ./firmware/at32f435_437_edma.o
+ .text.edmamux_sync_flag_clear
+                0x00000000       0x20 ./firmware/at32f435_437_edma.o
+ .text.edmamux_generator_flag_get
+                0x00000000       0x2c ./firmware/at32f435_437_edma.o
+ .text.edmamux_generator_interrupt_flag_get
+                0x00000000       0x90 ./firmware/at32f435_437_edma.o
+ .text.edmamux_generator_flag_clear
+                0x00000000       0x20 ./firmware/at32f435_437_edma.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_gpio.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_gpio.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_gpio.o
+ .text.gpio_reset
+                0x00000000      0x120 ./firmware/at32f435_437_gpio.o
+ .text.gpio_input_data_bit_read
+                0x00000000       0x36 ./firmware/at32f435_437_gpio.o
+ .text.gpio_input_data_read
+                0x00000000       0x1a ./firmware/at32f435_437_gpio.o
+ .text.gpio_output_data_bit_read
+                0x00000000       0x34 ./firmware/at32f435_437_gpio.o
+ .text.gpio_output_data_read
+                0x00000000       0x1a ./firmware/at32f435_437_gpio.o
+ .text.gpio_bits_write
+                0x00000000       0x30 ./firmware/at32f435_437_gpio.o
+ .text.gpio_port_write
+                0x00000000       0x1e ./firmware/at32f435_437_gpio.o
+ .text.gpio_pin_wp_config
+                0x00000000       0x44 ./firmware/at32f435_437_gpio.o
+ .text.gpio_pins_huge_driven_config
+                0x00000000       0x3e ./firmware/at32f435_437_gpio.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_i2c.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_i2c.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_i2c.o
+ .text.i2c_own_address2_set
+                0x00000000       0x44 ./firmware/at32f435_437_i2c.o
+ .text.i2c_own_address2_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_smbus_enable
+                0x00000000       0x50 ./firmware/at32f435_437_i2c.o
+ .text.i2c_clock_stretch_enable
+                0x00000000       0x2e ./firmware/at32f435_437_i2c.o
+ .text.i2c_ack_enable
+                0x00000000       0x2e ./firmware/at32f435_437_i2c.o
+ .text.i2c_addr10_mode_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_transfer_addr_set
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_transfer_addr_get
+                0x00000000       0x1e ./firmware/at32f435_437_i2c.o
+ .text.i2c_transfer_dir_set
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_transfer_dir_get
+                0x00000000       0x28 ./firmware/at32f435_437_i2c.o
+ .text.i2c_matched_addr_get
+                0x00000000       0x22 ./firmware/at32f435_437_i2c.o
+ .text.i2c_auto_stop_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_reload_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_cnt_set
+                0x00000000       0x24 ./firmware/at32f435_437_i2c.o
+ .text.i2c_addr10_header_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_general_call_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_smbus_alert_set
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_slave_data_ctrl_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_pec_calculate_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_pec_transmit_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_pec_value_get
+                0x00000000       0x1a ./firmware/at32f435_437_i2c.o
+ .text.i2c_timeout_set
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_timeout_detcet_set
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_timeout_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_ext_timeout_set
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_ext_timeout_enable
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_interrupt_enable
+                0x00000000       0x3c ./firmware/at32f435_437_i2c.o
+ .text.i2c_interrupt_get
+                0x00000000       0x2a ./firmware/at32f435_437_i2c.o
+ .text.i2c_dma_enable
+                0x00000000       0x48 ./firmware/at32f435_437_i2c.o
+ .text.i2c_start_generate
+                0x00000000       0x1e ./firmware/at32f435_437_i2c.o
+ .text.i2c_stop_generate
+                0x00000000       0x1e ./firmware/at32f435_437_i2c.o
+ .text.i2c_interrupt_flag_get
+                0x00000000      0x1b8 ./firmware/at32f435_437_i2c.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_misc.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_misc.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_misc.o
+ .text.__NVIC_DisableIRQ
+                0x00000000       0x48 ./firmware/at32f435_437_misc.o
+ .text.__NVIC_SystemReset
+                0x00000000       0x2c ./firmware/at32f435_437_misc.o
+ .text.nvic_system_reset
+                0x00000000        0x8 ./firmware/at32f435_437_misc.o
+ .text.nvic_irq_disable
+                0x00000000       0x1c ./firmware/at32f435_437_misc.o
+ .text.nvic_vector_table_set
+                0x00000000       0x2c ./firmware/at32f435_437_misc.o
+ .text.nvic_lowpower_mode_config
+                0x00000000       0x44 ./firmware/at32f435_437_misc.o
+ .text          0x00000000        0x0 ./firmware/at32f435_437_xmc.o
+ .data          0x00000000        0x0 ./firmware/at32f435_437_xmc.o
+ .bss           0x00000000        0x0 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nor_sram_reset
+                0x00000000       0x5c ./firmware/at32f435_437_xmc.o
+ .text.xmc_nor_sram_init
+                0x00000000       0x8a ./firmware/at32f435_437_xmc.o
+ .text.xmc_nor_sram_timing_config
+                0x00000000       0xba ./firmware/at32f435_437_xmc.o
+ .text.xmc_norsram_default_para_init
+                0x00000000       0x66 ./firmware/at32f435_437_xmc.o
+ .text.xmc_norsram_timing_default_para_init
+                0x00000000       0x82 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nor_sram_enable
+                0x00000000       0x36 ./firmware/at32f435_437_xmc.o
+ .text.xmc_ext_timing_config
+                0x00000000       0x56 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nand_reset
+                0x00000000       0x60 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nand_init
+                0x00000000       0x68 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nand_timing_config
+                0x00000000       0x84 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nand_default_para_init
+                0x00000000       0x3e ./firmware/at32f435_437_xmc.o
+ .text.xmc_nand_timing_default_para_init
+                0x00000000       0x52 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nand_enable
+                0x00000000       0x50 ./firmware/at32f435_437_xmc.o
+ .text.xmc_nand_ecc_enable
+                0x00000000       0x50 ./firmware/at32f435_437_xmc.o
+ .text.xmc_ecc_get
+                0x00000000       0x38 ./firmware/at32f435_437_xmc.o
+ .text.xmc_sdram_reset
+                0x00000000       0x48 ./firmware/at32f435_437_xmc.o
+ .text.xmc_sdram_init
+                0x00000000      0x2b4 ./firmware/at32f435_437_xmc.o
+ .text.xmc_sdram_default_para_init
+                0x00000000       0x7c ./firmware/at32f435_437_xmc.o
+ .text.xmc_sdram_cmd
+                0x00000000       0x38 ./firmware/at32f435_437_xmc.o
+ .text.xmc_sdram_status_get
+                0x00000000       0x38 ./firmware/at32f435_437_xmc.o
+ .text.xmc_sdram_refresh_counter_set
+                0x00000000       0x2c ./firmware/at32f435_437_xmc.o
+ .text.xmc_sdram_auto_refresh_set
+                0x00000000       0x2c ./firmware/at32f435_437_xmc.o
+ .text.xmc_interrupt_enable
+                0x00000000       0xd8 ./firmware/at32f435_437_xmc.o
+ .text.xmc_flag_status_get
+                0x00000000       0x7c ./firmware/at32f435_437_xmc.o
+ .text.xmc_interrupt_flag_status_get
+                0x00000000      0x1f0 ./firmware/at32f435_437_xmc.o
+ .text.xmc_flag_clear
+                0x00000000       0xac ./firmware/at32f435_437_xmc.o
+ .text.xmc_pccard_reset
+                0x00000000       0x38 ./firmware/at32f435_437_xmc.o
+ .text.xmc_pccard_init
+                0x00000000       0x38 ./firmware/at32f435_437_xmc.o
+ .text.xmc_pccard_timing_config
+                0x00000000       0x7c ./firmware/at32f435_437_xmc.o
+ .text.xmc_pccard_default_para_init
+                0x00000000       0x26 ./firmware/at32f435_437_xmc.o
+ .text.xmc_pccard_timing_default_para_init
+                0x00000000       0x72 ./firmware/at32f435_437_xmc.o
+ .text.xmc_pccard_enable
+                0x00000000       0x2c ./firmware/at32f435_437_xmc.o
+ .debug_info    0x00000000     0x22e5 ./firmware/at32f435_437_xmc.o
+ .debug_abbrev  0x00000000      0x22f ./firmware/at32f435_437_xmc.o
+ .debug_aranges
+                0x00000000      0x118 ./firmware/at32f435_437_xmc.o
+ .debug_ranges  0x00000000      0x108 ./firmware/at32f435_437_xmc.o
+ .debug_line    0x00000000      0xc90 ./firmware/at32f435_437_xmc.o
+ .debug_str     0x00000000     0x17db ./firmware/at32f435_437_xmc.o
+ .comment       0x00000000       0x4a ./firmware/at32f435_437_xmc.o
+ .debug_frame   0x00000000      0x508 ./firmware/at32f435_437_xmc.o
+ .ARM.attributes
+                0x00000000       0x34 ./firmware/at32f435_437_xmc.o
+ .text          0x00000000        0x0 ./cmsis/system_at32f435_437.o
+ .bss           0x00000000        0x0 ./cmsis/system_at32f435_437.o
+ .text          0x00000000        0x0 ./bsp/at_surf_f437_board_delay.o
+ .data          0x00000000        0x0 ./bsp/at_surf_f437_board_delay.o
+ .text.delay_us
+                0x00000000       0x6c ./bsp/at_surf_f437_board_delay.o
+ .text          0x00000000        0x0 ./bsp/at_surf_f437_board_dvp.o
+ .data          0x00000000        0x0 ./bsp/at_surf_f437_board_dvp.o
+ .text          0x00000000        0x0 ./bsp/at_surf_f437_board_font.o
+ .data          0x00000000        0x0 ./bsp/at_surf_f437_board_font.o
+ .bss           0x00000000        0x0 ./bsp/at_surf_f437_board_font.o
+ .text.chinese_font_24x24_read
+                0x00000000       0x7c ./bsp/at_surf_f437_board_font.o
+ .rodata        0x00000000    0x43af8 ./bsp/at_surf_f437_board_font.o
+ .debug_info    0x00000000      0x306 ./bsp/at_surf_f437_board_font.o
+ .debug_abbrev  0x00000000      0x114 ./bsp/at_surf_f437_board_font.o
+ .debug_aranges
+                0x00000000       0x20 ./bsp/at_surf_f437_board_font.o
+ .debug_ranges  0x00000000       0x10 ./bsp/at_surf_f437_board_font.o
+ .debug_line    0x00000000      0x1c5 ./bsp/at_surf_f437_board_font.o
+ .debug_str     0x00000000      0x3c6 ./bsp/at_surf_f437_board_font.o
+ .comment       0x00000000       0x4a ./bsp/at_surf_f437_board_font.o
+ .debug_frame   0x00000000       0x34 ./bsp/at_surf_f437_board_font.o
+ .ARM.attributes
+                0x00000000       0x34 ./bsp/at_surf_f437_board_font.o
+ .text          0x00000000        0x0 ./bsp/at_surf_f437_board_lcd.o
+ .data          0x00000000        0x0 ./bsp/at_surf_f437_board_lcd.o
+ .bss           0x00000000       0x10 ./bsp/at_surf_f437_board_lcd.o
+ .text.xmc_init
+                0x00000000      0x3f8 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_read
+                0x00000000       0x20 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_reg_write
+                0x00000000       0x1e ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_data_write
+                0x00000000       0x20 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_data_read
+                0x00000000        0xe ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_command_write
+                0x00000000       0x30 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_command_read
+                0x00000000       0x3e ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_ram_prepare_write
+                0x00000000       0x18 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_ram_prepare_read
+                0x00000000       0x18 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_data_16bit_write
+                0x00000000       0x20 ./bsp/at_surf_f437_board_lcd.o
+ .text.color_to_565
+                0x00000000       0x4c ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_data_16bit_read
+                0x00000000       0x58 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_point_draw
+                0x00000000       0x2e ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_draw_line
+                0x00000000      0x10a ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_point_read
+                0x00000000       0x50 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_clear
+                0x00000000       0x48 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_init
+                0x00000000      0x1e4 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_windows_set
+                0x00000000       0xa4 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_cursor_set
+                0x00000000       0x24 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_direction
+                0x00000000       0x7c ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_id_read
+                0x00000000       0x2e ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_char_show
+                0x00000000      0x188 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_font_show
+                0x00000000      0x108 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_string_show
+                0x00000000       0xa8 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_string_show2
+                0x00000000       0xa8 ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_fill
+                0x00000000       0x7c ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_color_fill
+                0x00000000       0x8e ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_num_show
+                0x00000000       0xfc ./bsp/at_surf_f437_board_lcd.o
+ .text.lcd_float_num_show
+                0x00000000      0x114 ./bsp/at_surf_f437_board_lcd.o
+ .debug_info    0x00000000     0x24d3 ./bsp/at_surf_f437_board_lcd.o
+ .debug_abbrev  0x00000000      0x331 ./bsp/at_surf_f437_board_lcd.o
+ .debug_aranges
+                0x00000000      0x100 ./bsp/at_surf_f437_board_lcd.o
+ .debug_ranges  0x00000000       0xf0 ./bsp/at_surf_f437_board_lcd.o
+ .debug_line    0x00000000      0xa54 ./bsp/at_surf_f437_board_lcd.o
+ .debug_str     0x00000000     0x19fd ./bsp/at_surf_f437_board_lcd.o
+ .comment       0x00000000       0x4a ./bsp/at_surf_f437_board_lcd.o
+ .debug_frame   0x00000000      0x44c ./bsp/at_surf_f437_board_lcd.o
+ .ARM.attributes
+                0x00000000       0x34 ./bsp/at_surf_f437_board_lcd.o
+ .text          0x00000000        0x0 ./bsp/at_surf_f437_board_ov2640.o
+ .data          0x00000000        0x0 ./bsp/at_surf_f437_board_ov2640.o
+ .text.ov2640_jpeg_mode
+                0x00000000       0x74 ./bsp/at_surf_f437_board_ov2640.o
+ .text.ov2640_auto_exposure
+                0x00000000       0x54 ./bsp/at_surf_f437_board_ov2640.o
+ .text.ov2640_special_effects
+                0x00000000       0xc0 ./bsp/at_surf_f437_board_ov2640.o
+ .text.ov2640_color_bar
+                0x00000000       0x4a ./bsp/at_surf_f437_board_ov2640.o
+ .text.ov2640_window_set
+                0x00000000      0x112 ./bsp/at_surf_f437_board_ov2640.o
+ .text.ov2640_imagewin_set
+                0x00000000      0x112 ./bsp/at_surf_f437_board_ov2640.o
+ .text.ov2640_imagesize_set
+                0x00000000       0x94 ./bsp/at_surf_f437_board_ov2640.o
+ .text          0x00000000        0x0 ./bsp/at_surf_f437_board_ov5640.o
+ .data          0x00000000        0x0 ./bsp/at_surf_f437_board_ov5640.o
+ .rodata        0x00000000     0x1515 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_reg_write
+                0x00000000       0x60 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_init
+                0x00000000       0xc8 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_jpeg_mode
+                0x00000000       0x48 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_rgb565_mode
+                0x00000000       0x48 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_exposure
+                0x00000000       0xdc ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_light_mode
+                0x00000000       0x68 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_color_saturation
+                0x00000000       0xa0 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_brightness
+                0x00000000       0x72 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_contrast
+                0x00000000       0xb8 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_sharpness
+                0x00000000       0x8a ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_special_effects
+                0x00000000       0x8c ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_flash_ctrl
+                0x00000000       0x42 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_outsize_set
+                0x00000000       0xc4 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_imagewin_set
+                0x00000000       0xe4 ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_focus_init
+                0x00000000       0xdc ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_focus_single
+                0x00000000       0x4a ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_focus_constant
+                0x00000000       0x98 ./bsp/at_surf_f437_board_ov5640.o
+ .text.i2c_lowlevel_init
+                0x00000000      0x18c ./bsp/at_surf_f437_board_ov5640.o
+ .text.ov5640_capture
+                0x00000000       0x84 ./bsp/at_surf_f437_board_ov5640.o
+ .text          0x00000000        0x0 ./bsp/i2c_application.o
+ .data          0x00000000        0x0 ./bsp/i2c_application.o
+ .bss           0x00000000        0x0 ./bsp/i2c_application.o
+ .text.i2c_lowlevel_init_1
+                0x00000000       0x14 ./bsp/i2c_application.o
+ .text.i2c_refresh_txdt_register
+                0x00000000       0x48 ./bsp/i2c_application.o
+ .text.i2c_wait_end
+                0x00000000       0x42 ./bsp/i2c_application.o
+ .text.i2c_dma_config
+                0x00000000       0x86 ./bsp/i2c_application.o
+ .text.i2c_start_transfer_dma
+                0x00000000       0x92 ./bsp/i2c_application.o
+ .text.i2c_slave_receive
+                0x00000000      0x150 ./bsp/i2c_application.o
+ .text.i2c_slave_transmit
+                0x00000000      0x188 ./bsp/i2c_application.o
+ .text.i2c_master_transmit_int
+                0x00000000       0x70 ./bsp/i2c_application.o
+ .text.i2c_slave_receive_int
+                0x00000000       0x6a ./bsp/i2c_application.o
+ .text.i2c_master_receive_int
+                0x00000000       0x70 ./bsp/i2c_application.o
+ .text.i2c_slave_transmit_int
+                0x00000000       0x70 ./bsp/i2c_application.o
+ .text.i2c_master_transmit_dma
+                0x00000000       0x8e ./bsp/i2c_application.o
+ .text.i2c_slave_receive_dma
+                0x00000000       0x96 ./bsp/i2c_application.o
+ .text.i2c_master_receive_dma
+                0x00000000       0x8e ./bsp/i2c_application.o
+ .text.i2c_slave_transmit_dma
+                0x00000000       0x96 ./bsp/i2c_application.o
+ .text.i2c_memory_address_send
+                0x00000000       0x72 ./bsp/i2c_application.o
+ .text.i2c_memory_write
+                0x00000000      0x166 ./bsp/i2c_application.o
+ .text.i2c_memory_read
+                0x00000000      0x166 ./bsp/i2c_application.o
+ .text.i2c_memory_write_int
+                0x00000000       0xc6 ./bsp/i2c_application.o
+ .text.i2c_memory_read_int
+                0x00000000       0xcc ./bsp/i2c_application.o
+ .text.i2c_memory_write_dma
+                0x00000000       0xea ./bsp/i2c_application.o
+ .text.i2c_memory_read_dma
+                0x00000000       0xea ./bsp/i2c_application.o
+ .text.i2c_smbus_master_transmit
+                0x00000000      0x12e ./bsp/i2c_application.o
+ .text.i2c_smbus_slave_receive
+                0x00000000      0x17c ./bsp/i2c_application.o
+ .text.i2c_smbus_master_receive
+                0x00000000      0x122 ./bsp/i2c_application.o
+ .text.i2c_smbus_slave_transmit
+                0x00000000      0x1f8 ./bsp/i2c_application.o
+ .text.i2c_master_irq_handler_int
+                0x00000000      0x1b2 ./bsp/i2c_application.o
+ .text.i2c_slave_irq_handler_int
+                0x00000000      0x19e ./bsp/i2c_application.o
+ .text.i2c_master_irq_handler_dma
+                0x00000000      0x11e ./bsp/i2c_application.o
+ .text.i2c_slave_irq_handler_dma
+                0x00000000       0xe0 ./bsp/i2c_application.o
+ .text.i2c_dma_tx_rx_irq_handler
+                0x00000000      0x290 ./bsp/i2c_application.o
+ .text.i2c_dma_tx_irq_handler
+                0x00000000       0x1c ./bsp/i2c_application.o
+ .text.i2c_dma_rx_irq_handler
+                0x00000000       0x1c ./bsp/i2c_application.o
+ .text.i2c_evt_irq_handler
+                0x00000000       0x64 ./bsp/i2c_application.o
+ .text.i2c_err_irq_handler
+                0x00000000      0x154 ./bsp/i2c_application.o
+ .text          0x00000000       0x14 ./startup_at32f435_437.o
+ .data          0x00000000        0x0 ./startup_at32f435_437.o
+ .bss           0x00000000        0x0 ./startup_at32f435_437.o
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x28 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x00000000       0x60 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x00000000        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .text.memcpy   0x00000000       0x1c c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000       0x28 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memcpy-stub.o)
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x10 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x20 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a(_exit.o)
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x00000000       0x24 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00400000         xr
+RAM              0x20000000         0x00060000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD ./user/at32f435_437_clock.o
+LOAD ./user/at32f435_437_int.o
+LOAD ./user/main.o
+LOAD ./firmware/at32f435_437_crm.o
+LOAD ./firmware/at32f435_437_dma.o
+LOAD ./firmware/at32f435_437_dvp.o
+LOAD ./firmware/at32f435_437_edma.o
+LOAD ./firmware/at32f435_437_gpio.o
+LOAD ./firmware/at32f435_437_i2c.o
+LOAD ./firmware/at32f435_437_misc.o
+LOAD ./firmware/at32f435_437_xmc.o
+LOAD ./cmsis/system_at32f435_437.o
+LOAD ./bsp/at_surf_f437_board_delay.o
+LOAD ./bsp/at_surf_f437_board_dvp.o
+LOAD ./bsp/at_surf_f437_board_font.o
+LOAD ./bsp/at_surf_f437_board_lcd.o
+LOAD ./bsp/at_surf_f437_board_ov2640.o
+LOAD ./bsp/at_surf_f437_board_ov5640.o
+LOAD ./bsp/i2c_application.o
+LOAD ./startup_at32f435_437.o
+START GROUP
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc_nano.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libnosys.a
+END GROUP
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x20060000                _estack = 0x20060000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x20c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x20c ./startup_at32f435_437.o
+                0x08000000                g_pfnVectors
+                0x0800020c                . = ALIGN (0x4)
+
+.text           0x0800020c     0x2a20
+                0x0800020c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800020c       0x40 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0800024c       0x30 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+                0x0800024c                __aeabi_uldivmod
+ .text          0x0800027c      0x2d0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x0800027c                __udivmoddi4
+ .text          0x0800054c        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x0800054c                __aeabi_idiv0
+                0x0800054c                __aeabi_ldiv0
+ *(.text*)
+ .text.system_clock_config
+                0x08000550       0xa4 ./user/at32f435_437_clock.o
+                0x08000550                system_clock_config
+ .text.NMI_Handler
+                0x080005f4        0xe ./user/at32f435_437_int.o
+                0x080005f4                NMI_Handler
+ .text.HardFault_Handler
+                0x08000602        0x6 ./user/at32f435_437_int.o
+                0x08000602                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000608        0x6 ./user/at32f435_437_int.o
+                0x08000608                MemManage_Handler
+ .text.BusFault_Handler
+                0x0800060e        0x6 ./user/at32f435_437_int.o
+                0x0800060e                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000614        0x6 ./user/at32f435_437_int.o
+                0x08000614                UsageFault_Handler
+ .text.SVC_Handler
+                0x0800061a        0xe ./user/at32f435_437_int.o
+                0x0800061a                SVC_Handler
+ .text.DebugMon_Handler
+                0x08000628        0xe ./user/at32f435_437_int.o
+                0x08000628                DebugMon_Handler
+ .text.PendSV_Handler
+                0x08000636        0xe ./user/at32f435_437_int.o
+                0x08000636                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000644        0xe ./user/at32f435_437_int.o
+                0x08000644                SysTick_Handler
+ .text.DVP_IRQHandler
+                0x08000652        0xc ./user/at32f435_437_int.o
+                0x08000652                DVP_IRQHandler
+ .text.EDMA_Stream4_IRQHandler
+                0x0800065e       0x1e ./user/at32f435_437_int.o
+                0x0800065e                EDMA_Stream4_IRQHandler
+ .text.camera_identify
+                0x0800067c      0x158 ./user/main.o
+                0x0800067c                camera_identify
+ .text.main     0x080007d4      0x130 ./user/main.o
+                0x080007d4                main
+ .text.i2c_lowlevel_init_1
+                0x08000904       0xa8 ./user/main.o
+                0x08000904                i2c_lowlevel_init_1
+ .text.ov2640_capture
+                0x080009ac       0x6c ./user/main.o
+                0x080009ac                ov2640_capture
+ .text.crm_reset
+                0x08000a18       0x78 ./firmware/at32f435_437_crm.o
+                0x08000a18                crm_reset
+ .text.crm_flag_get
+                0x08000a90       0x50 ./firmware/at32f435_437_crm.o
+                0x08000a90                crm_flag_get
+ .text.crm_hext_stable_wait
+                0x08000ae0       0x4a ./firmware/at32f435_437_crm.o
+                0x08000ae0                crm_hext_stable_wait
+ .text.crm_periph_clock_enable
+                0x08000b2a       0x7c ./firmware/at32f435_437_crm.o
+                0x08000b2a                crm_periph_clock_enable
+ .text.crm_periph_reset
+                0x08000ba6       0x7c ./firmware/at32f435_437_crm.o
+                0x08000ba6                crm_periph_reset
+ *fill*         0x08000c22        0x2 
+ .text.crm_clock_source_enable
+                0x08000c24       0xa8 ./firmware/at32f435_437_crm.o
+                0x08000c24                crm_clock_source_enable
+ .text.crm_ahb_div_set
+                0x08000ccc       0x2c ./firmware/at32f435_437_crm.o
+                0x08000ccc                crm_ahb_div_set
+ .text.crm_apb1_div_set
+                0x08000cf8       0x2c ./firmware/at32f435_437_crm.o
+                0x08000cf8                crm_apb1_div_set
+ .text.crm_apb2_div_set
+                0x08000d24       0x2c ./firmware/at32f435_437_crm.o
+                0x08000d24                crm_apb2_div_set
+ .text.crm_auto_step_mode_enable
+                0x08000d50       0x40 ./firmware/at32f435_437_crm.o
+                0x08000d50                crm_auto_step_mode_enable
+ .text.crm_pll_config
+                0x08000d90       0x88 ./firmware/at32f435_437_crm.o
+                0x08000d90                crm_pll_config
+ .text.crm_sysclk_switch
+                0x08000e18       0x54 ./firmware/at32f435_437_crm.o
+                0x08000e18                crm_sysclk_switch
+ .text.crm_sysclk_switch_status_get
+                0x08000e6c       0x1c ./firmware/at32f435_437_crm.o
+                0x08000e6c                crm_sysclk_switch_status_get
+ .text.dvp_capture_enable
+                0x08000e88       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000e88                dvp_capture_enable
+ .text.dvp_capture_mode_set
+                0x08000eb4       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000eb4                dvp_capture_mode_set
+ .text.dvp_sync_mode_set
+                0x08000ee0       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000ee0                dvp_sync_mode_set
+ .text.dvp_pclk_polarity_set
+                0x08000f0c       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000f0c                dvp_pclk_polarity_set
+ .text.dvp_hsync_polarity_set
+                0x08000f38       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000f38                dvp_hsync_polarity_set
+ .text.dvp_vsync_polarity_set
+                0x08000f64       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000f64                dvp_vsync_polarity_set
+ .text.dvp_pixel_data_length_set
+                0x08000f90       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000f90                dvp_pixel_data_length_set
+ .text.dvp_enable
+                0x08000fbc       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000fbc                dvp_enable
+ .text.dvp_zoomout_select
+                0x08000fe8       0x2c ./firmware/at32f435_437_dvp.o
+                0x08000fe8                dvp_zoomout_select
+ .text.dvp_zoomout_set
+                0x08001014       0x74 ./firmware/at32f435_437_dvp.o
+                0x08001014                dvp_zoomout_set
+ .text.dvp_interrupt_enable
+                0x08001088       0x40 ./firmware/at32f435_437_dvp.o
+                0x08001088                dvp_interrupt_enable
+ .text.dvp_interrupt_flag_get
+                0x080010c8       0x34 ./firmware/at32f435_437_dvp.o
+                0x080010c8                dvp_interrupt_flag_get
+ .text.dvp_flag_clear
+                0x080010fc       0x28 ./firmware/at32f435_437_dvp.o
+                0x080010fc                dvp_flag_clear
+ .text.edma_reset
+                0x08001124      0x10c ./firmware/at32f435_437_edma.o
+                0x08001124                edma_reset
+ .text.edma_init
+                0x08001230      0x10c ./firmware/at32f435_437_edma.o
+                0x08001230                edma_init
+ .text.edma_stream_enable
+                0x0800133c       0x2a ./firmware/at32f435_437_edma.o
+                0x0800133c                edma_stream_enable
+ .text.edma_interrupt_enable
+                0x08001366       0x6c ./firmware/at32f435_437_edma.o
+                0x08001366                edma_interrupt_enable
+ .text.edma_double_buffer_mode_init
+                0x080013d2       0x3c ./firmware/at32f435_437_edma.o
+                0x080013d2                edma_double_buffer_mode_init
+ .text.edma_double_buffer_mode_enable
+                0x0800140e       0x34 ./firmware/at32f435_437_edma.o
+                0x0800140e                edma_double_buffer_mode_enable
+ *fill*         0x08001442        0x2 
+ .text.edma_interrupt_flag_get
+                0x08001444       0x40 ./firmware/at32f435_437_edma.o
+                0x08001444                edma_interrupt_flag_get
+ .text.edma_flag_clear
+                0x08001484       0x34 ./firmware/at32f435_437_edma.o
+                0x08001484                edma_flag_clear
+ .text.edmamux_enable
+                0x080014b8       0x30 ./firmware/at32f435_437_edma.o
+                0x080014b8                edmamux_enable
+ .text.edmamux_init
+                0x080014e8       0x2a ./firmware/at32f435_437_edma.o
+                0x080014e8                edmamux_init
+ .text.gpio_init
+                0x08001512       0xf4 ./firmware/at32f435_437_gpio.o
+                0x08001512                gpio_init
+ .text.gpio_default_para_init
+                0x08001606       0x34 ./firmware/at32f435_437_gpio.o
+                0x08001606                gpio_default_para_init
+ .text.gpio_bits_set
+                0x0800163a       0x1e ./firmware/at32f435_437_gpio.o
+                0x0800163a                gpio_bits_set
+ .text.gpio_bits_reset
+                0x08001658       0x1e ./firmware/at32f435_437_gpio.o
+                0x08001658                gpio_bits_reset
+ .text.gpio_pin_mux_config
+                0x08001676       0x94 ./firmware/at32f435_437_gpio.o
+                0x08001676                gpio_pin_mux_config
+ *fill*         0x0800170a        0x2 
+ .text.i2c_reset
+                0x0800170c       0x74 ./firmware/at32f435_437_i2c.o
+                0x0800170c                i2c_reset
+ .text.i2c_init
+                0x08001780       0x3c ./firmware/at32f435_437_i2c.o
+                0x08001780                i2c_init
+ .text.i2c_own_address1_set
+                0x080017bc       0x4a ./firmware/at32f435_437_i2c.o
+                0x080017bc                i2c_own_address1_set
+ .text.i2c_enable
+                0x08001806       0x2a ./firmware/at32f435_437_i2c.o
+                0x08001806                i2c_enable
+ .text.i2c_transmit_set
+                0x08001830       0x50 ./firmware/at32f435_437_i2c.o
+                0x08001830                i2c_transmit_set
+ .text.i2c_data_send
+                0x08001880       0x1e ./firmware/at32f435_437_i2c.o
+                0x08001880                i2c_data_send
+ .text.i2c_data_receive
+                0x0800189e       0x1a ./firmware/at32f435_437_i2c.o
+                0x0800189e                i2c_data_receive
+ .text.i2c_flag_get
+                0x080018b8       0x28 ./firmware/at32f435_437_i2c.o
+                0x080018b8                i2c_flag_get
+ .text.i2c_flag_clear
+                0x080018e0       0x1c ./firmware/at32f435_437_i2c.o
+                0x080018e0                i2c_flag_clear
+ .text.__NVIC_SetPriorityGrouping
+                0x080018fc       0x48 ./firmware/at32f435_437_misc.o
+ .text.__NVIC_GetPriorityGrouping
+                0x08001944       0x1c ./firmware/at32f435_437_misc.o
+ .text.__NVIC_EnableIRQ
+                0x08001960       0x3c ./firmware/at32f435_437_misc.o
+ .text.__NVIC_SetPriority
+                0x0800199c       0x54 ./firmware/at32f435_437_misc.o
+ .text.NVIC_EncodePriority
+                0x080019f0       0x66 ./firmware/at32f435_437_misc.o
+ .text.nvic_irq_enable
+                0x08001a56       0x42 ./firmware/at32f435_437_misc.o
+                0x08001a56                nvic_irq_enable
+ .text.nvic_priority_group_config
+                0x08001a98       0x1a ./firmware/at32f435_437_misc.o
+                0x08001a98                nvic_priority_group_config
+ *fill*         0x08001ab2        0x2 
+ .text.systick_clock_source_config
+                0x08001ab4       0x3c ./firmware/at32f435_437_misc.o
+                0x08001ab4                systick_clock_source_config
+ .text.SystemInit
+                0x08001af0       0x94 ./cmsis/system_at32f435_437.o
+                0x08001af0                SystemInit
+ .text.system_core_clock_update
+                0x08001b84      0x154 ./cmsis/system_at32f435_437.o
+                0x08001b84                system_core_clock_update
+ .text.delay_init
+                0x08001cd8       0x40 ./bsp/at_surf_f437_board_delay.o
+                0x08001cd8                delay_init
+ .text.delay_ms
+                0x08001d18       0x98 ./bsp/at_surf_f437_board_delay.o
+                0x08001d18                delay_ms
+ .text.delay_sec
+                0x08001db0       0x38 ./bsp/at_surf_f437_board_delay.o
+                0x08001db0                delay_sec
+ .text.dvp_config
+                0x08001de8       0x76 ./bsp/at_surf_f437_board_dvp.o
+                0x08001de8                dvp_config
+ *fill*         0x08001e5e        0x2 
+ .text.dvp_io_init
+                0x08001e60      0x1c0 ./bsp/at_surf_f437_board_dvp.o
+                0x08001e60                dvp_io_init
+ .text.dvp_dma_init
+                0x08002020       0xc0 ./bsp/at_surf_f437_board_dvp.o
+                0x08002020                dvp_dma_init
+ .text.dvp_start
+                0x080020e0       0x1c ./bsp/at_surf_f437_board_dvp.o
+                0x080020e0                dvp_start
+ .text.dvp_stop
+                0x080020fc       0x2c ./bsp/at_surf_f437_board_dvp.o
+                0x080020fc                dvp_stop
+ .text.dvp_frame_done
+                0x08002128       0x20 ./bsp/at_surf_f437_board_dvp.o
+                0x08002128                dvp_frame_done
+ .text.dvp_int_handler
+                0x08002148       0x7c ./bsp/at_surf_f437_board_dvp.o
+                0x08002148                dvp_int_handler
+ .text.ov2640_reg_write
+                0x080021c4       0x48 ./bsp/at_surf_f437_board_ov2640.o
+                0x080021c4                ov2640_reg_write
+ .text.ov2640_reg_read
+                0x0800220c       0x58 ./bsp/at_surf_f437_board_ov2640.o
+                0x0800220c                ov2640_reg_read
+ .text.ov2640_rgb565_mode
+                0x08002264       0x44 ./bsp/at_surf_f437_board_ov2640.o
+                0x08002264                ov2640_rgb565_mode
+ .text.ov2640_light_mode
+                0x080022a8       0xa8 ./bsp/at_surf_f437_board_ov2640.o
+                0x080022a8                ov2640_light_mode
+ .text.ov2640_color_saturation
+                0x08002350       0x56 ./bsp/at_surf_f437_board_ov2640.o
+                0x08002350                ov2640_color_saturation
+ .text.ov2640_brightness
+                0x080023a6       0x48 ./bsp/at_surf_f437_board_ov2640.o
+                0x080023a6                ov2640_brightness
+ *fill*         0x080023ee        0x2 
+ .text.ov2640_contrast
+                0x080023f0       0xa8 ./bsp/at_surf_f437_board_ov2640.o
+                0x080023f0                ov2640_contrast
+ .text.ov2640_outsize_set
+                0x08002498       0xa6 ./bsp/at_surf_f437_board_ov2640.o
+                0x08002498                ov2640_outsize_set
+ *fill*         0x0800253e        0x2 
+ .text.ov2640_i2c_lowlevel_init
+                0x08002540       0x88 ./bsp/at_surf_f437_board_ov2640.o
+                0x08002540                ov2640_i2c_lowlevel_init
+ .text.ov2640_i2c_init
+                0x080025c8       0x38 ./bsp/at_surf_f437_board_ov2640.o
+                0x080025c8                ov2640_i2c_init
+ .text.ov2640_init
+                0x08002600       0xec ./bsp/at_surf_f437_board_ov2640.o
+                0x08002600                ov2640_init
+ .text.ov5640_reg_read
+                0x080026ec       0xa8 ./bsp/at_surf_f437_board_ov5640.o
+                0x080026ec                ov5640_reg_read
+ .text.ov5640_i2c_init
+                0x08002794       0x1c ./bsp/at_surf_f437_board_ov5640.o
+                0x08002794                ov5640_i2c_init
+ .text.i2c_config
+                0x080027b0       0x2c ./bsp/i2c_application.o
+                0x080027b0                i2c_config
+ .text.i2c_reset_ctrl2_register
+                0x080027dc       0x50 ./bsp/i2c_application.o
+                0x080027dc                i2c_reset_ctrl2_register
+ .text.i2c_wait_flag
+                0x0800282c       0xda ./bsp/i2c_application.o
+                0x0800282c                i2c_wait_flag
+ .text.i2c_start_transfer
+                0x08002906       0x68 ./bsp/i2c_application.o
+                0x08002906                i2c_start_transfer
+ .text.i2c_master_transmit
+                0x0800296e      0x108 ./bsp/i2c_application.o
+                0x0800296e                i2c_master_transmit
+ .text.i2c_master_receive
+                0x08002a76      0x10a ./bsp/i2c_application.o
+                0x08002a76                i2c_master_receive
+ .text.Reset_Handler
+                0x08002b80       0x48 ./startup_at32f435_437.o
+                0x08002b80                Reset_Handler
+ .text.Default_Handler
+                0x08002bc8        0x2 ./startup_at32f435_437.o
+                0x08002bc8                SDIO1_IRQHandler
+                0x08002bc8                XMC_IRQHandler
+                0x08002bc8                EXINT2_IRQHandler
+                0x08002bc8                TMR20_TRG_HALL_IRQHandler
+                0x08002bc8                UART8_IRQHandler
+                0x08002bc8                SPI4_IRQHandler
+                0x08002bc8                I2C2_EVT_IRQHandler
+                0x08002bc8                TMR20_CH_IRQHandler
+                0x08002bc8                TMR1_OVF_TMR10_IRQHandler
+                0x08002bc8                TMR8_TRG_HALL_TMR14_IRQHandler
+                0x08002bc8                I2C1_ERR_IRQHandler
+                0x08002bc8                EXINT9_5_IRQHandler
+                0x08002bc8                TAMP_STAMP_IRQHandler
+                0x08002bc8                EMAC_IRQHandler
+                0x08002bc8                EDMA_Stream7_IRQHandler
+                0x08002bc8                CAN2_RX1_IRQHandler
+                0x08002bc8                TMR5_GLOBAL_IRQHandler
+                0x08002bc8                TMR20_OVF_IRQHandler
+                0x08002bc8                EDMA_Stream2_IRQHandler
+                0x08002bc8                CAN1_RX0_IRQHandler
+                0x08002bc8                FPU_IRQHandler
+                0x08002bc8                EDMA_Stream3_IRQHandler
+                0x08002bc8                SDIO2_IRQHandler
+                0x08002bc8                OTGFS2_IRQHandler
+                0x08002bc8                SPI1_IRQHandler
+                0x08002bc8                TMR6_DAC_GLOBAL_IRQHandler
+                0x08002bc8                CAN2_RX0_IRQHandler
+                0x08002bc8                OTGFS1_IRQHandler
+                0x08002bc8                DMA2_Channel2_IRQHandler
+                0x08002bc8                DMA1_Channel4_IRQHandler
+                0x08002bc8                TMR8_CH_IRQHandler
+                0x08002bc8                USART6_IRQHandler
+                0x08002bc8                EXINT0_IRQHandler
+                0x08002bc8                USART3_IRQHandler
+                0x08002bc8                DMA1_Channel7_IRQHandler
+                0x08002bc8                CAN1_RX1_IRQHandler
+                0x08002bc8                UART5_IRQHandler
+                0x08002bc8                ACC_IRQHandler
+                0x08002bc8                DMAMUX_IRQHandler
+                0x08002bc8                EMAC_WKUP_IRQHandler
+                0x08002bc8                DMA2_Channel1_IRQHandler
+                0x08002bc8                OTGFS2_WKUP_IRQHandler
+                0x08002bc8                EXINT3_IRQHandler
+                0x08002bc8                DMA1_Channel6_IRQHandler
+                0x08002bc8                UART4_IRQHandler
+                0x08002bc8                DMA2_Channel4_IRQHandler
+                0x08002bc8                ERTCAlarm_IRQHandler
+                0x08002bc8                DMA1_Channel1_IRQHandler
+                0x08002bc8                Default_Handler
+                0x08002bc8                DMA2_Channel7_IRQHandler
+                0x08002bc8                TMR20_BRK_IRQHandler
+                0x08002bc8                QSPI1_IRQHandler
+                0x08002bc8                TMR3_GLOBAL_IRQHandler
+                0x08002bc8                TMR7_GLOBAL_IRQHandler
+                0x08002bc8                CAN1_SE_IRQHandler
+                0x08002bc8                CAN2_TX_IRQHandler
+                0x08002bc8                I2C3_ERR_IRQHandler
+                0x08002bc8                SPI3_I2S3EXT_IRQHandler
+                0x08002bc8                TMR1_BRK_TMR9_IRQHandler
+                0x08002bc8                TMR8_BRK_TMR12_IRQHandler
+                0x08002bc8                TMR1_TRG_HALL_TMR11_IRQHandler
+                0x08002bc8                CAN1_TX_IRQHandler
+                0x08002bc8                DMA2_Channel5_IRQHandler
+                0x08002bc8                DMA1_Channel5_IRQHandler
+                0x08002bc8                EDMA_Stream6_IRQHandler
+                0x08002bc8                QSPI2_IRQHandler
+                0x08002bc8                TMR4_GLOBAL_IRQHandler
+                0x08002bc8                EXINT4_IRQHandler
+                0x08002bc8                CAN2_SE_IRQHandler
+                0x08002bc8                PVM_IRQHandler
+                0x08002bc8                I2C3_EVT_IRQHandler
+                0x08002bc8                DMA1_Channel3_IRQHandler
+                0x08002bc8                I2C1_EVT_IRQHandler
+                0x08002bc8                TMR8_OVF_TMR13_IRQHandler
+                0x08002bc8                DMA2_Channel6_IRQHandler
+                0x08002bc8                EDMA_Stream5_IRQHandler
+                0x08002bc8                EDMA_Stream1_IRQHandler
+                0x08002bc8                EXINT1_IRQHandler
+                0x08002bc8                UART7_IRQHandler
+                0x08002bc8                USART2_IRQHandler
+                0x08002bc8                DMA1_Channel2_IRQHandler
+                0x08002bc8                TMR2_GLOBAL_IRQHandler
+                0x08002bc8                ERTC_WKUP_IRQHandler
+                0x08002bc8                FLASH_IRQHandler
+                0x08002bc8                SPI2_I2S2EXT_IRQHandler
+                0x08002bc8                I2C2_ERR_IRQHandler
+                0x08002bc8                USART1_IRQHandler
+                0x08002bc8                TMR1_CH_IRQHandler
+                0x08002bc8                CRM_IRQHandler
+                0x08002bc8                EDMA_Stream8_IRQHandler
+                0x08002bc8                OTGFS1_WKUP_IRQHandler
+                0x08002bc8                EXINT15_10_IRQHandler
+                0x08002bc8                ADC1_2_3_IRQHandler
+                0x08002bc8                WWDT_IRQHandler
+                0x08002bc8                DMA2_Channel3_IRQHandler
+ *fill*         0x08002bca        0x2 
+ .text.__libc_init_array
+                0x08002bcc       0x48 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+                0x08002bcc                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x08002c14        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08002c14        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08002c14        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x08002c14        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08002c14                _init
+ .init          0x08002c18        0x8 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x08002c20        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+                0x08002c20                _fini
+ .fini          0x08002c24        0x8 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+                0x08002c2c                . = ALIGN (0x4)
+                0x08002c2c                _etext = .
+
+.vfp11_veneer   0x08002c2c        0x0
+ .vfp11_veneer  0x08002c2c        0x0 linker stubs
+
+.v4_bx          0x08002c2c        0x0
+ .v4_bx         0x08002c2c        0x0 linker stubs
+
+.iplt           0x08002c2c        0x0
+ .iplt          0x08002c2c        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x08002c2c      0x344
+                0x08002c2c                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08002c2c       0x18 ./cmsis/system_at32f435_437.o
+ .rodata        0x08002c44      0x32c ./bsp/at_surf_f437_board_ov2640.o
+                0x08002c44                ov2640_sxga_init_reg_tbl
+                0x08002da8                ov2640_svga_init_reg_tbl
+                0x08002f0c                ov2640_jpeg_reg_tbl
+                0x08002f1c                ov2640_rgb565_reg_tbl
+                0x08002f38                ov2640_yuv422_reg_tbl
+ *(.rodata*)
+                0x08002f70                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08002f70        0x8
+                0x08002f70                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx     0x08002f70        0x8 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+                0x08002f78                __exidx_end = .
+
+.rel.dyn        0x08002f78        0x0
+ .rel.iplt      0x08002f78        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.preinit_array  0x08002f78        0x0
+                0x08002f78                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08002f78                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08002f78        0x4
+                0x08002f78                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08002f78        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08002f7c                PROVIDE (__init_array_end = .)
+
+.fini_array     0x08002f7c        0x4
+                [!provide]                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08002f7c        0x4 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                [!provide]                PROVIDE (__fini_array_end = .)
+                0x08002f80                _sidata = LOADADDR (.data)
+
+.data           0x20000000        0x4 load address 0x08002f80
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x4 ./cmsis/system_at32f435_437.o
+                0x20000000                system_core_clock
+ *(.data*)
+                0x20000004                . = ALIGN (0x4)
+                0x20000004                _edata = .
+
+.igot.plt       0x20000004        0x0 load address 0x08002f84
+ .igot.plt      0x20000004        0x0 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x20000004                . = ALIGN (0x4)
+
+.bss            0x20000004     0x96cc load address 0x08002f84
+                0x20000004                _sbss = .
+                0x20000004                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000004       0x1c c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x20000020     0x9602 ./user/main.o
+                0x20009620                camera_id
+ *fill*         0x20009622        0x2 
+ .bss           0x20009624        0x8 ./bsp/at_surf_f437_board_delay.o
+ .bss           0x2000962c        0x1 ./bsp/at_surf_f437_board_dvp.o
+                0x2000962c                ov_frame
+ *fill*         0x2000962d        0x3 
+ .bss           0x20009630       0x34 ./bsp/at_surf_f437_board_ov2640.o
+                0x20009630                hi2c_ov
+ .bss           0x20009664       0x69 ./bsp/at_surf_f437_board_ov5640.o
+                0x20009664                hi2cx
+                0x20009698                hi1cx
+                0x200096cc                STA
+ *(.bss*)
+ *(COMMON)
+                0x200096d0                . = ALIGN (0x4)
+ *fill*         0x200096cd        0x3 
+                0x200096d0                _ebss = .
+                0x200096d0                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200096d0      0x600 load address 0x08002f84
+                0x200096d0                . = ALIGN (0x8)
+                [!provide]                PROVIDE (end = .)
+                [!provide]                PROVIDE (_end = .)
+                0x200098d0                . = (. + _Min_Heap_Size)
+ *fill*         0x200096d0      0x200 
+                0x20009cd0                . = (. + _Min_Stack_Size)
+ *fill*         0x200098d0      0x400 
+                0x20009cd0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x0000001e       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000052       0x34 ./user/at32f435_437_clock.o
+ .ARM.attributes
+                0x00000086       0x34 ./user/at32f435_437_int.o
+ .ARM.attributes
+                0x000000ba       0x34 ./user/main.o
+ .ARM.attributes
+                0x000000ee       0x34 ./firmware/at32f435_437_crm.o
+ .ARM.attributes
+                0x00000122       0x34 ./firmware/at32f435_437_dvp.o
+ .ARM.attributes
+                0x00000156       0x34 ./firmware/at32f435_437_edma.o
+ .ARM.attributes
+                0x0000018a       0x34 ./firmware/at32f435_437_gpio.o
+ .ARM.attributes
+                0x000001be       0x34 ./firmware/at32f435_437_i2c.o
+ .ARM.attributes
+                0x000001f2       0x34 ./firmware/at32f435_437_misc.o
+ .ARM.attributes
+                0x00000226       0x34 ./cmsis/system_at32f435_437.o
+ .ARM.attributes
+                0x0000025a       0x34 ./bsp/at_surf_f437_board_delay.o
+ .ARM.attributes
+                0x0000028e       0x34 ./bsp/at_surf_f437_board_dvp.o
+ .ARM.attributes
+                0x000002c2       0x34 ./bsp/at_surf_f437_board_ov2640.o
+ .ARM.attributes
+                0x000002f6       0x34 ./bsp/at_surf_f437_board_ov5640.o
+ .ARM.attributes
+                0x0000032a       0x34 ./bsp/i2c_application.o
+ .ARM.attributes
+                0x0000035e       0x21 ./startup_at32f435_437.o
+ .ARM.attributes
+                0x0000037f       0x1e c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000039d       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x000003d1       0x1e c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000003ef       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000423       0x1e c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(dvp.elf elf32-littlearm)
+LOAD linker stubs
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libc.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libm.a
+LOAD c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a
+
+.debug_info     0x00000000    0x1b21b
+ .debug_info    0x00000000     0x1308 ./user/at32f435_437_clock.o
+ .debug_info    0x00001308      0x166 ./user/at32f435_437_int.o
+ .debug_info    0x0000146e     0x2e60 ./user/main.o
+ .debug_info    0x000042ce     0x31cc ./firmware/at32f435_437_crm.o
+ .debug_info    0x0000749a     0x168f ./firmware/at32f435_437_dvp.o
+ .debug_info    0x00008b29     0x225e ./firmware/at32f435_437_edma.o
+ .debug_info    0x0000ad87     0x1840 ./firmware/at32f435_437_gpio.o
+ .debug_info    0x0000c5c7     0x165f ./firmware/at32f435_437_i2c.o
+ .debug_info    0x0000dc26      0xa5c ./firmware/at32f435_437_misc.o
+ .debug_info    0x0000e682     0x2073 ./cmsis/system_at32f435_437.o
+ .debug_info    0x000106f5      0x270 ./bsp/at_surf_f437_board_delay.o
+ .debug_info    0x00010965     0x2d5d ./bsp/at_surf_f437_board_dvp.o
+ .debug_info    0x000136c2     0x2905 ./bsp/at_surf_f437_board_ov2640.o
+ .debug_info    0x00015fc7     0x357a ./bsp/at_surf_f437_board_ov5640.o
+ .debug_info    0x00019541     0x1cb8 ./bsp/i2c_application.o
+ .debug_info    0x0001b1f9       0x22 ./startup_at32f435_437.o
+
+.debug_abbrev   0x00000000     0x1fc9
+ .debug_abbrev  0x00000000      0x1bb ./user/at32f435_437_clock.o
+ .debug_abbrev  0x000001bb       0x92 ./user/at32f435_437_int.o
+ .debug_abbrev  0x0000024d      0x2a4 ./user/main.o
+ .debug_abbrev  0x000004f1      0x261 ./firmware/at32f435_437_crm.o
+ .debug_abbrev  0x00000752      0x1c9 ./firmware/at32f435_437_dvp.o
+ .debug_abbrev  0x0000091b      0x1f2 ./firmware/at32f435_437_edma.o
+ .debug_abbrev  0x00000b0d      0x238 ./firmware/at32f435_437_gpio.o
+ .debug_abbrev  0x00000d45      0x253 ./firmware/at32f435_437_i2c.o
+ .debug_abbrev  0x00000f98      0x245 ./firmware/at32f435_437_misc.o
+ .debug_abbrev  0x000011dd      0x187 ./cmsis/system_at32f435_437.o
+ .debug_abbrev  0x00001364      0x12a ./bsp/at_surf_f437_board_delay.o
+ .debug_abbrev  0x0000148e      0x260 ./bsp/at_surf_f437_board_dvp.o
+ .debug_abbrev  0x000016ee      0x2f4 ./bsp/at_surf_f437_board_ov2640.o
+ .debug_abbrev  0x000019e2      0x348 ./bsp/at_surf_f437_board_ov5640.o
+ .debug_abbrev  0x00001d2a      0x28d ./bsp/i2c_application.o
+ .debug_abbrev  0x00001fb7       0x12 ./startup_at32f435_437.o
+
+.debug_aranges  0x00000000      0xa50
+ .debug_aranges
+                0x00000000       0x20 ./user/at32f435_437_clock.o
+ .debug_aranges
+                0x00000020       0x70 ./user/at32f435_437_int.o
+ .debug_aranges
+                0x00000090       0x38 ./user/main.o
+ .debug_aranges
+                0x000000c8      0x138 ./firmware/at32f435_437_crm.o
+ .debug_aranges
+                0x00000200      0x108 ./firmware/at32f435_437_dvp.o
+ .debug_aranges
+                0x00000308      0x138 ./firmware/at32f435_437_edma.o
+ .debug_aranges
+                0x00000440       0x88 ./firmware/at32f435_437_gpio.o
+ .debug_aranges
+                0x000004c8      0x160 ./firmware/at32f435_437_i2c.o
+ .debug_aranges
+                0x00000628       0x88 ./firmware/at32f435_437_misc.o
+ .debug_aranges
+                0x000006b0       0x28 ./cmsis/system_at32f435_437.o
+ .debug_aranges
+                0x000006d8       0x38 ./bsp/at_surf_f437_board_delay.o
+ .debug_aranges
+                0x00000710       0x50 ./bsp/at_surf_f437_board_dvp.o
+ .debug_aranges
+                0x00000760       0xa8 ./bsp/at_surf_f437_board_ov2640.o
+ .debug_aranges
+                0x00000808       0xc0 ./bsp/at_surf_f437_board_ov5640.o
+ .debug_aranges
+                0x000008c8      0x160 ./bsp/i2c_application.o
+ .debug_aranges
+                0x00000a28       0x28 ./startup_at32f435_437.o
+
+.debug_ranges   0x00000000      0x958
+ .debug_ranges  0x00000000       0x10 ./user/at32f435_437_clock.o
+ .debug_ranges  0x00000010       0x60 ./user/at32f435_437_int.o
+ .debug_ranges  0x00000070       0x28 ./user/main.o
+ .debug_ranges  0x00000098      0x128 ./firmware/at32f435_437_crm.o
+ .debug_ranges  0x000001c0       0xf8 ./firmware/at32f435_437_dvp.o
+ .debug_ranges  0x000002b8      0x128 ./firmware/at32f435_437_edma.o
+ .debug_ranges  0x000003e0       0x78 ./firmware/at32f435_437_gpio.o
+ .debug_ranges  0x00000458      0x150 ./firmware/at32f435_437_i2c.o
+ .debug_ranges  0x000005a8       0x78 ./firmware/at32f435_437_misc.o
+ .debug_ranges  0x00000620       0x18 ./cmsis/system_at32f435_437.o
+ .debug_ranges  0x00000638       0x28 ./bsp/at_surf_f437_board_delay.o
+ .debug_ranges  0x00000660       0x40 ./bsp/at_surf_f437_board_dvp.o
+ .debug_ranges  0x000006a0       0x98 ./bsp/at_surf_f437_board_ov2640.o
+ .debug_ranges  0x00000738       0xb0 ./bsp/at_surf_f437_board_ov5640.o
+ .debug_ranges  0x000007e8      0x150 ./bsp/i2c_application.o
+ .debug_ranges  0x00000938       0x20 ./startup_at32f435_437.o
+
+.debug_line     0x00000000     0x5978
+ .debug_line    0x00000000      0x232 ./user/at32f435_437_clock.o
+ .debug_line    0x00000232      0x261 ./user/at32f435_437_int.o
+ .debug_line    0x00000493      0x424 ./user/main.o
+ .debug_line    0x000008b7      0x9d1 ./firmware/at32f435_437_crm.o
+ .debug_line    0x00001288      0x5f6 ./firmware/at32f435_437_dvp.o
+ .debug_line    0x0000187e      0x7d6 ./firmware/at32f435_437_edma.o
+ .debug_line    0x00002054      0x482 ./firmware/at32f435_437_gpio.o
+ .debug_line    0x000024d6      0x67b ./firmware/at32f435_437_i2c.o
+ .debug_line    0x00002b51      0x44f ./firmware/at32f435_437_misc.o
+ .debug_line    0x00002fa0      0x30d ./cmsis/system_at32f435_437.o
+ .debug_line    0x000032ad      0x32d ./bsp/at_surf_f437_board_delay.o
+ .debug_line    0x000035da      0x372 ./bsp/at_surf_f437_board_dvp.o
+ .debug_line    0x0000394c      0x6be ./bsp/at_surf_f437_board_ov2640.o
+ .debug_line    0x0000400a      0x746 ./bsp/at_surf_f437_board_ov5640.o
+ .debug_line    0x00004750     0x11b3 ./bsp/i2c_application.o
+ .debug_line    0x00005903       0x75 ./startup_at32f435_437.o
+
+.debug_str      0x00000000     0x8889
+ .debug_str     0x00000000      0xe10 ./user/at32f435_437_clock.o
+                                0xeb2 (size before relaxing)
+ .debug_str     0x00000e10       0xfa ./user/at32f435_437_int.o
+                                0x26c (size before relaxing)
+ .debug_str     0x00000f0a     0x1146 ./user/main.o
+                               0x1b7e (size before relaxing)
+ .debug_str     0x00002050     0x2353 ./firmware/at32f435_437_crm.o
+                               0x2de5 (size before relaxing)
+ .debug_str     0x000043a3      0x87a ./firmware/at32f435_437_dvp.o
+                               0x11cc (size before relaxing)
+ .debug_str     0x00004c1d     0x1ec0 ./firmware/at32f435_437_edma.o
+                               0x2213 (size before relaxing)
+ .debug_str     0x00006add      0x1ca ./firmware/at32f435_437_gpio.o
+                               0x109b (size before relaxing)
+ .debug_str     0x00006ca7      0x5ff ./firmware/at32f435_437_i2c.o
+                                0xff4 (size before relaxing)
+ .debug_str     0x000072a6      0xa00 ./firmware/at32f435_437_misc.o
+                                0xc3d (size before relaxing)
+ .debug_str     0x00007ca6       0x8b ./cmsis/system_at32f435_437.o
+                                0xf3e (size before relaxing)
+ .debug_str     0x00007d31       0x75 ./bsp/at_surf_f437_board_delay.o
+                                0x3fa (size before relaxing)
+ .debug_str     0x00007da6       0xae ./bsp/at_surf_f437_board_dvp.o
+                               0x2bc7 (size before relaxing)
+ .debug_str     0x00007e54      0x2aa ./bsp/at_surf_f437_board_ov2640.o
+                               0x1acf (size before relaxing)
+ .debug_str     0x000080fe      0x2b8 ./bsp/at_surf_f437_board_ov5640.o
+                               0x2d70 (size before relaxing)
+ .debug_str     0x000083b6      0x4ab ./bsp/i2c_application.o
+                                0xe78 (size before relaxing)
+ .debug_str     0x00008861       0x28 ./startup_at32f435_437.o
+                                 0x68 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./user/at32f435_437_clock.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./user/at32f435_437_int.o
+ .comment       0x00000049       0x4a ./user/main.o
+ .comment       0x00000049       0x4a ./firmware/at32f435_437_crm.o
+ .comment       0x00000049       0x4a ./firmware/at32f435_437_dvp.o
+ .comment       0x00000049       0x4a ./firmware/at32f435_437_edma.o
+ .comment       0x00000049       0x4a ./firmware/at32f435_437_gpio.o
+ .comment       0x00000049       0x4a ./firmware/at32f435_437_i2c.o
+ .comment       0x00000049       0x4a ./firmware/at32f435_437_misc.o
+ .comment       0x00000049       0x4a ./cmsis/system_at32f435_437.o
+ .comment       0x00000049       0x4a ./bsp/at_surf_f437_board_delay.o
+ .comment       0x00000049       0x4a ./bsp/at_surf_f437_board_dvp.o
+ .comment       0x00000049       0x4a ./bsp/at_surf_f437_board_ov2640.o
+ .comment       0x00000049       0x4a ./bsp/at_surf_f437_board_ov5640.o
+ .comment       0x00000049       0x4a ./bsp/i2c_application.o
+
+.debug_frame    0x00000000     0x2b00
+ .debug_frame   0x00000000       0x2c ./user/at32f435_437_clock.o
+ .debug_frame   0x0000002c      0x148 ./user/at32f435_437_int.o
+ .debug_frame   0x00000174       0x94 ./user/main.o
+ .debug_frame   0x00000208      0x59c ./firmware/at32f435_437_crm.o
+ .debug_frame   0x000007a4      0x4b4 ./firmware/at32f435_437_dvp.o
+ .debug_frame   0x00000c58      0x5b0 ./firmware/at32f435_437_edma.o
+ .debug_frame   0x00001208      0x23c ./firmware/at32f435_437_gpio.o
+ .debug_frame   0x00001444      0x674 ./firmware/at32f435_437_i2c.o
+ .debug_frame   0x00001ab8      0x210 ./firmware/at32f435_437_misc.o
+ .debug_frame   0x00001cc8       0x60 ./cmsis/system_at32f435_437.o
+ .debug_frame   0x00001d28       0xa0 ./bsp/at_surf_f437_board_delay.o
+ .debug_frame   0x00001dc8       0xf0 ./bsp/at_surf_f437_board_dvp.o
+ .debug_frame   0x00001eb8      0x298 ./bsp/at_surf_f437_board_ov2640.o
+ .debug_frame   0x00002150      0x310 ./bsp/at_surf_f437_board_ov5640.o
+ .debug_frame   0x00002460      0x614 ./bsp/i2c_application.o
+ .debug_frame   0x00002a74       0x2c c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00002aa0       0x34 c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00002ad4       0x2c c:/at32ide/platform/tools/gcc-arm-none-eabi-10.3-2021.10/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard\libg_nano.a(lib_a-init.o)
